@@ -6,6 +6,6 @@ Gameplay Programming Portfolio Project - Unreal Engine 5.3
 **Role**:  *Solo Developer*  
 **Focus**:  *Gameplay Programming*  
 **LinkedIn**:  *[Link](https://www.linkedin.com/in/haponov-maksym-gamedev)*  
-**Game Tech Demo**:  *[Video]()*  
+**Game Tech Demo Video**:  *[YouTube]()*  
 **Download Build**: *[GoogleDrive]()*  
 **My Portfolio**: *[Site]()*
