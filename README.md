@@ -8,5 +8,5 @@ Gameplay Programming Portfolio Project - Unreal Engine 5.3
 **Focus**:  *Gameplay Programming*  
 **LinkedIn**:  *[Link](https://www.linkedin.com/in/haponov-maksym-gamedev)*  
 **Game Tech Demo Video**:  *[YouTube]()*  
-**Download Build**: *[GoogleDrive]()*  
+**Download the Game**: *[GoogleDrive](https://drive.google.com/drive/u/1/folders/14qOEKhVOG_dxCA7WXIWFLG_uVeTJrqbC)*  
 **My Portfolio**: *[Site]()*
